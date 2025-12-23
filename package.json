@@ -1,0 +1,20 @@
+{
+  "name": "awsesh-core-test",
+  "version": "0.0.1",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "bun run src/index.ts",
+    "list-sessions": "bun run src/list-sessions.ts",
+    "login": "bun run src/login.ts",
+    "list-accounts": "bun run src/list-accounts.ts",
+    "get-credentials": "bun run src/get-credentials.ts"
+  },
+  "dependencies": {
+    "@awsesh/core": "1.0.0-alpha.202512230737"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "typescript": "^5.7.2"
+  }
+}
