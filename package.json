@@ -11,7 +11,7 @@
     "get-credentials": "bun run src/get-credentials.ts"
   },
   "dependencies": {
-    "@awsesh/core": "1.0.0-alpha.202512230737"
+    "@awsesh/core": "1.0.0-beta.202605041018"
   },
   "devDependencies": {
     "@types/bun": "latest",

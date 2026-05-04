@@ -1,6 +1,6 @@
 # @awsesh/core Test Repository
 
-Test repository for the `@awsesh/core` SDK alpha release.
+Test repository for the `@awsesh/core` SDK beta release.
 
 ## Setup
 
@@ -47,4 +47,4 @@ bun run get-credentials 123456789012 AdministratorAccess my-profile
 
 ## SDK Version
 
-Using `@awsesh/core@1.0.0-alpha.202512230737`
+Using `@awsesh/core@1.0.0-beta.202605041018`
