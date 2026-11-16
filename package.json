@@ -13,6 +13,9 @@
   "dependencies": {
     "@awsesh/core": "1.0.0-beta.202605041018"
   },
+  "overrides": {
+    "@aws-sdk/xml-builder": "3.972.19"
+  },
   "devDependencies": {
     "@types/bun": "latest",
     "typescript": "^5.7.2"
